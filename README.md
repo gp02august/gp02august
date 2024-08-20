@@ -1,30 +1,99 @@
-<h1 align="center">Hi, I'm Gyanendra 👋</h1>
-<h3 align="center">Software Developer | Passionate Coder | Tech Enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gp02august&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
-📫 Reach me at: gyanendrapal590@gmail.com
-
-🌱 Currently exploring: Advanced Flutter & Full-Stack Development
-
-⚡ Fun Fact: I’m a Solivagant—always on the move, seeking new adventures!
-
-<h3 align="left">🌐 Connect with Me:</h3>
-<p align="left">
-  <a href="https://twitter.com/gyan15072001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/gyanendra-pal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://instagram.com/_gyanendra__pal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://leetcode.com/gyanendrapal590/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+<p id="top" align="center">
+  <img src="https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/raw/main/YOUR_COVER_IMAGE.png" />
 </p>
-<h3 align="left">💻 Languages & Tools:</h3>
+
+<h1 align="center">### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> , I am Gyanendra!!</h1>
+
+                                               G Y A N E N D R A   P A L ✨
+                        B.Tech Student | Explorer | Developer
+
+
+[![Linkedin: gyanendra-pal](https://img.shields.io/badge/-gyanendra--pal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gyanendra-pal/)](https://www.linkedin.com/in/gyanendra-pal/)
+[![GitHub: gyanendra-pal](https://img.shields.io/github/followers/gyanendra-pal?label=follow&style=social)](https://github.com/gyanendra-pal/)
+
+<h3> 👨🏻‍💻 &nbsp;About Me: </h3>
+
+- 🎓 I'm pursuing my B.Tech in Computer Science & Engineering from G.L. Bajaj Institute of Technology & Management
+- 🔭 I’m currently working on [Intelligent Gesture-Driven Virtual Blackboard](https://github.com/YOUR_USERNAME/PROJECT_LINK)
+- 👯 I’m looking to collaborate on open source projects
+- ⚒  Experience: Working on Django, Django REST Framework, and Angular
+- 🌱 I’m currently learning new technologies and frameworks
+- 💬 Ask me about C++, Python, Django
+- 📃 Resume - [Resume](YOUR_RESUME_LINK)
+- 💼 Portfolio - [Portfolio](YOUR_PORTFOLIO_LINK)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gyanendra-pal/) | [GitHub](https://github.com/gyanendra-pal)
+- 😄 Pronouns: He/His
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
-</p>
-<h3 align="left">📊 GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gp02august&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gp02august&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gp02august&" alt="GitHub Streak" /></p>
+  <a href="https://www.linkedin.com/in/gyanendra-pal/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+  
+  <a href="https://github.com/gyanendra-pal">
+    <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
+  </a>
+
+  <a href="https://www.facebook.com/YOUR_FACEBOOK_PROFILE">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white">  
+  </a>
+ 
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM_PROFILE">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
+  </a>
+<p/>
+<br/>
+
+<h3 align="center">A passionate Full Stack Developer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gyanendra-pal&label=Profile%20views&color=0e75b6&style=flat" alt="gyanendra-pal" /> </p>
+
+<h2 align="center">Statistics</h2>
+<div align="center">
+<a href="https://github.com/gyanendra-pal">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gyanendra-pal&theme=nightowl&hide_border=true&fire=DD2727" height="180em" alt="gyanendra-pal" />
+<br/>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gyanendra-pal&theme=2077" height="180em" alt="gyanendra-pal" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gyanendra-pal&theme=2077" height="180em" alt="gyanendra-pal" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gyanendra-pal&theme=2077" height="180em" alt="gyanendra-pal" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gyanendra-pal&theme=2077" height="180em" alt="gyanendra-pal" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gyanendra-pal&theme=2077" height="180em" alt="gyanendra-pal" />
+</div>
+
+<details> 
+<summary align="center"> </samp></summary><b>Note:</b> Most Used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</details>
+
+---
+
+<summary>:trophy: Github Profile Trophy</summary>
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=gyanendra-pal&theme=monokai&row=1&no-frame=true&no-bg=true/">
+
+<summary>Github Stats</summary>
+
+[![gyanendra-pal's GitHub stats](https://stats.quine.sh/gyanendra-pal/github)](https://stats.quine.sh/gyanendra-pal/github)
+
+<summary>:trophy: @gyanendra-pal's Holopin board</summary>
+  <br/>
+  <a href="https://holopin.io/@gyanendra-pal">
+    <img src="https://holopin.me/gyanendra-pal">
+  </a>
+
+<h3>Check out my work:</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/gyanendra-pal/YOUR_PROJECT"><b>Your Project</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=0&color=343b41?color=blue"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/static/v1?label=forks&message=0&color=343b41?color=blue"/></td>
+    </tr>
+    <!-- Add more projects as needed -->
+  </tbody>
+</table>
