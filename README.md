@@ -8,7 +8,7 @@
 
 📫 Reach me at: gyanendrapal590@gmail.com
 
-🌱 Currently exploring: Advanced Flutter & Full-Stack Development
+🌱 Currently exploring: Backend Development, Python Data Projects, and Cloud Technologies
 
 ⚡ Fun Fact: I’m a Solivagant—always on the move, seeking new adventures!
 
