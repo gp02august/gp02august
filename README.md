@@ -23,10 +23,10 @@
 - 🗂️ [**Inventory Management System**](https://github.com/gp02august/inventory-system)  
   Built with C# and .NET 8 – full CRUD, PostgreSQL integration, and alert system using MVC architecture.
 
-- 🧠 [**Automated Resume Ranker**](https://github.com/gp02august/resume-ranker)  
+- 🧠 [**Automated Resume Ranker**](https://github.com/gp02august/Autumated_Resume_Ranking_System)  
   NLP-based app using Python, cosine similarity, and PDF parsing to score resumes against job descriptions.
 
-- 💬 [**ChatRoom App**](https://github.com/gp02august/chatroom-cpp)  
+- 💬 [**ChatRoom App**](https://github.com/gp02august/Chit_Chat-Application-)  
   Real-time multi-client chat room using C++ WinSock and multithreading.
 
 ---
