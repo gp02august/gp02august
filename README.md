@@ -20,13 +20,9 @@
 
 <h3 align="left">🚀 Featured Projects:</h3>
 
-- 🗂️ [**Inventory Management System**](https://github.com/gp02august/inventory-system)  
-  Built with C# and .NET 8 – full CRUD, PostgreSQL integration, and alert system using MVC architecture.
-
-- 🧠 [**Automated Resume Ranker**](https://github.com/gp02august/Autumated_Resume_Ranking_System)  
-  NLP-based app using Python, cosine similarity, and PDF parsing to score resumes against job descriptions.
-
-- 💬 [**ChatRoom App**](https://github.com/gp02august/Chit_Chat-Application-)  
+- 🗂️ [**Inventory Management System**](https://github.com/gp02august/inventory-system)Built with C# and .NET 8 – full CRUD, PostgreSQL integration, and alert system using MVC architecture.
+- 🧠 [**Automated Resume Ranker**](https://github.com/gp02august/Autumated_Resume_Ranking_System)NLP-based app using Python, cosine similarity, and PDF parsing to score resumes against job descriptions.
+- 💬 [**ChatRoom App**](https://github.com/gp02august/Chit_Chat-Application-)
   Real-time multi-client chat room using C++ WinSock and multithreading.
 
 ---
@@ -68,6 +64,17 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gp02august&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gp02august&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=gp02august&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gp02august&" alt="GitHub Streak" /></p>
+
+## 🌟 Github Badges
+<p>
+  <img src="https://img.shields.io/github/followers/gp02august?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/gp02august?affiliations=OWNER&style=social" />
+</p>
+
+## 🏆 GitHub Trophies
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=gp02august&theme=algolia" />
+</p>
