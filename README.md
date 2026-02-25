@@ -1,4 +1,3 @@
-use this format:
 <h1 align="center">Hi, I'm Gyanendra 👋</h1>
 <h3 align="center">Software Developer | Backend & Full Stack Enthusiast | Lifelong Learner</h3>
 
