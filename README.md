@@ -129,7 +129,7 @@
     <img src="https://img.shields.io/github/stars/gp02august?style=for-the-badge&label=Stars&logo=github" alt="GitHub stars" />
   </a>
   <a href="https://github.com/gp02august?tab=overview">
-    <img src="https://img.shields.io/github/commit-activity/y/gp02august?style=for-the-badge&label=Commits%20this%20year&logo=git" alt="Commits this year" />
+    <img src="https://img.shields.io/github/commit-activity/y/gp02august/gp02august?style=for-the-badge&label=Commits%20this%20year&logo=git" alt="Commits this year" />
   </a>
   <a href="https://github.com/gp02august">
     <img src="https://img.shields.io/github/created-at/gp02august/gp02august?style=for-the-badge&label=Profile%20created&logo=github" alt="Profile created" />
