@@ -1,11 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6f42c1&height=200&section=header&text=Gyanendra%20Pal&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Backend%20%26%20Full%20Stack%20%7C%20Lifelong%20Learner&descAlignY=58&descSize=18" alt="header" />
-
-<a href="https://github.com/gp02august">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Building+scalable+backend+systems+with+.NET+8;Full+Stack+%7C+System+Design+%7C+Cloud+%26+Data;Learning+Python+Data+Stack%2C+Docker+%26+AWS;Always+on+the+move%2C+exploring+new+tech" alt="Typing SVG" />
-</a>
+<img src="./assets/profile-header.svg" alt="Gyanendra Pal - Software Developer, Backend and Full Stack" width="100%" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=gp02august&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -73,7 +69,7 @@
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>🗂️ <a href="https://github.com/gp02august/inventory-system">Inventory Management System</a></h3>
+      <h3>🗂️ <a href="https://github.com/gp02august?tab=repositories">Inventory Management System</a></h3>
       <p>Full CRUD application with PostgreSQL integration and a stock alert system, built on MVC architecture.</p>
       <p>
         <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
@@ -108,20 +104,37 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=gp02august&show_icons=true&theme=tokyonight&hide_border=true&locale=en&cache_seconds=86400" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gp02august&layout=compact&theme=tokyonight&hide_border=true&locale=en&cache_seconds=86400" alt="Top Languages" />
-
 <img src="https://streak-stats.demolab.com/?user=gp02august&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<p>
+  <a href="https://github.com/gp02august?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20all%20repositories-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories" />
+  </a>
+  <a href="https://github.com/gp02august?tab=followers">
+    <img src="https://img.shields.io/badge/Follow%20on%20GitHub-24292f?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏅 GitHub Highlights
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gp02august&theme=algolia&no-frame=true&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-</div>
+<p align="center">
+  <a href="https://github.com/gp02august?tab=followers">
+    <img src="https://img.shields.io/github/followers/gp02august?style=for-the-badge&label=Followers&logo=github" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/gp02august?tab=stars">
+    <img src="https://img.shields.io/github/stars/gp02august?style=for-the-badge&label=Stars&logo=github" alt="GitHub stars" />
+  </a>
+  <a href="https://github.com/gp02august?tab=overview">
+    <img src="https://img.shields.io/github/commit-activity/y/gp02august?style=for-the-badge&label=Commits%20this%20year&logo=git" alt="Commits this year" />
+  </a>
+  <a href="https://github.com/gp02august">
+    <img src="https://img.shields.io/github/created-at/gp02august/gp02august?style=for-the-badge&label=Profile%20created&logo=github" alt="Profile created" />
+  </a>
+</p>
 
 ---
 
