@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="./assets/profile-header.svg" alt="Gyanendra Pal - Software Developer, Backend and Full Stack" width="100%" />
+<img src="./assets/profile-header.svg" alt="Gyanendra Pal - Software Engineer, Backend and Full Stack" width="100%" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=gp02august&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
